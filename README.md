@@ -1,1 +1,1 @@
-# Aotoencoder-for-Anomaly-Detection-
+# Autoencoder-for-Anomaly-Detection-
